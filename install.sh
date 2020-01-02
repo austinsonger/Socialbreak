@@ -1,30 +1,35 @@
 #!/bin/bash
 #Sysupdate
 sudo apt-get update 
-#Python
-sudo apt-get install python
-#gmail
-git clone https://github.com/Ha3MrX/Gemail-Hack.git
-#facebook
-if [ -d facebook ]; then
-        echo "Directory facebook exists.[✔]"
-else
-	mkdir facebook
-	cd facebook
-	wget raw.githubusercontent.com/Sup3r-Us3r/scripts/master/fb-brute.pl
-	cd ..
-fi
-#Instagram
-git clone https://github.com/thelinuxchoice/instainsane.git
-cd instainsane
-chmod +x instainsane.sh
-chmod +x install.sh
-sudo ./install.sh
-cd ..
-#Twitter
-git clone https://github.com/thelinuxchoice/tweetshell.git
-cd tweetshell
-chmod +x tweetshell.sh
-chmod +x install.sh
-sudo ./install.sh
-cd ..
+#APT
+sudo apt install -y \
+    python \
+    python3-pip \ 
+    tor \
+    curl \
+    openssl \
+
+# PIP
+sudo pip install bs4
+sudo pip install mechanize
+sudo pip install requests
+
+# Gmail
+if [ -d gemailhack ]; then
+        echo "Directory Gemail-Hack exists.[✔]"
+# Facebook
+if [ -d fbbrute ]; then
+        echo "Directory Facebook Bruteforce exists.[✔]"
+# Instainsane
+fi [ -d instainsane ]; then
+        echo "Directory instainsane exists.[✔]"
+        cd instainsane
+        chmod +x instainsane.sh
+        cd ..
+# TweetShell
+fi [ -d tweetshell ]; then
+        echo "Directory tweetshell  exists.[✔]"       
+        cd tweetshell
+        chmod +x tweetshell.sh
+        cd ..
+
