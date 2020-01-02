@@ -7,11 +7,15 @@
 # Socialbreak
  Social Media Account Penetrating Framework
 
+
+**Branches**
+- `dev` is development branch and will be default for the time being
+- `master` is production branch
+
 **File Info**
-- `is.py` is replacing `instainsane.sh'
+- `is.py` is replacing `instainsane.sh`
 - `ts.py` is replacing `tweetshell.sh`
-
-
+- `fb.py` is replacing `fb.pl`
 
 ### fbbrute
 **Features**
