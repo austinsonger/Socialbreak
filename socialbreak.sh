@@ -57,19 +57,19 @@ check
 echo "$nc"
 if [$check = "Y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check = "y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check = "Yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check = "yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check = "YES"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 else
   exit 1
 fi################ Gemail - Hack################
@@ -85,19 +85,19 @@ check2
 echo "$nc"
 if [$check2 = "Y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check2 = "y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check2 = "Yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check2 = "yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check2 = "YES"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 else
   exit 1
 fi######################### Instagram BruteForce#########################
@@ -119,19 +119,19 @@ check3
 echo "$nc"
 if [$check3 = "Y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check3 = "y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check3 = "Yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check3 = "yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check3 = "YES"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 else
   exit 1
 fi############### TweetShell###############
@@ -153,19 +153,19 @@ check4
 echo "$nc"
 if [$check4 = "Y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check4 = "y"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check4 = "Yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check4 = "yes"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 elif[$check4 = "YES"];
     then
-cd.. || exit && bash SocialBox.sh
+cd.. || exit && bash Socialbreak.sh
 else
   exit 1
 fi
