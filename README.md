@@ -1,6 +1,8 @@
 ##### TODO
 - Add features to fbbrute and Gemailhack
-- Change code base of fbbrute into python
+- Change code base of fbbrute.pl into python
+- Change code base of instainsame.sh into python
+- Change code base of tweetshell.sh into python
 
 # Socialbreak
  Social Media Account Penetrationg Framework

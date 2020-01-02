@@ -14,7 +14,7 @@ Cafe = "\033[0;33m"
 Fiuscha = "\033[0;35m"
 blue = "\033[1;34m"
 nc = "\e[0m"#
-ROOT PRIVILEGIES
+# ROOT PRIVILEGIES
 if [
   [$EUID - ne 0]
 ];

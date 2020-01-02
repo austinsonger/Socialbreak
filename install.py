@@ -10,7 +10,6 @@ def install():
 	os.system("pip install bs4") 
 	os.system("apt install perl -y")
 	print "\n"
-	print """entering big download region prepare you anus
-	if your not ready press ctrl C """
+	print """Preparing"""
 	i = raw_input("press ctrl c to stop hit enter to continue")
 install()
