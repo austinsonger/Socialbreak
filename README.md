@@ -7,6 +7,11 @@
 # Socialbreak
  Social Media Account Penetrating Framework
 
+**File Info**
+- `is.py` is replacing `instainsane.sh'
+- `ts.py` is replacing 'tweetshell.sh`
+
+
 
 ### fbbrute
 **Features**
