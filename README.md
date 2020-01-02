@@ -1,12 +1,9 @@
 ##### TODO
 - Add features to fbbrute and Gemailhack
-- Change code base of fbbrute.pl into python
-- Change code base of instainsame.sh into python
-- Change code base of tweetshell.sh into python
+- Change code base of shell & perl into python
 
 # Socialbreak
  Social Media Account Penetrating Framework
-
 
 **Branches**
 - `dev` is development branch and will be default for the time being
@@ -21,11 +18,20 @@
 **Features**
 
 > Add features here
+> - Multi-thread (`<###>` attempts at once)
+> - Save/Resume sessions
+> - Anonymous attack through TOR
+> - Check valid usernames
 
 ### Gemailhack
 **Features**
 
 > Add features here
+> - Multi-thread (`<###>` attempts at once)
+> - Save/Resume sessions
+> - Anonymous attack through TOR
+> - Check valid usernames
+
 
 ### Instainsane
 **Features**
