@@ -50,7 +50,8 @@
 
 
 ### Info
-Script uses an Android ApkSignature to perform authentication in addition using TOR instances to avoid blocking.
+- You want to help? Fork and Pull.
+- Script uses an Android ApkSignature to perform authentication in addition using TOR instances to avoid blocking.
 
 
 
