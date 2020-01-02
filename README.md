@@ -5,7 +5,7 @@
 - Change code base of tweetshell.sh into python
 
 # Socialbreak
- Social Media Account Penetrationg Framework
+ Social Media Account Penetrating Framework
 
 
 ### fbbrute
