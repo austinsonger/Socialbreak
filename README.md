@@ -9,7 +9,7 @@
 
 **File Info**
 - `is.py` is replacing `instainsane.sh'
-- `ts.py` is replacing 'tweetshell.sh`
+- `ts.py` is replacing `tweetshell.sh`
 
 
 
