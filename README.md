@@ -10,6 +10,7 @@
 - `master` is production branch
 
 **File Info**
+- `sb.py` is replacing `socialbreak.sh`
 - `is.py` is replacing `instainsane.sh`
 - `ts.py` is replacing `tweetshell.sh`
 - `fb.py` is replacing `fb.pl`
