@@ -29,6 +29,16 @@ time.sleep(1)
 os.system('cls||clear')
 
 
+print ("$yellow Select From Menu : $nc"
+Print("")
+print ("$Cyan 1 : Brute Force Facebook Account$nc")
+print ("$Cyan 2 : Brute Force Gmail Account$nc")
+print ("$Cyan 3 : Brute Force Instagram Account$nc")
+print ("$Cyan 4 : Brute Force Twitter Account$nc")
+print ("$Cyan 99: Exit$nc")
+
+
+
 
 print ("");
 print ("");
